@@ -3,8 +3,6 @@ using System.Collections.Generic;
 using System.Globalization;
 using Lab03;
 
-
-
 namespace LabWork
 {
     class Program
