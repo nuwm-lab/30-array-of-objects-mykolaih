@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Globalization;
 using Lab03;
 
+
+
 namespace LabWork
 {
     class Program
@@ -50,11 +52,11 @@ namespace LabWork
 
             var polynomials = new List<CubicPolynomial>
             {
-                new CubicPolynomial(-1, 6, 5, -5),
+                new CubicPolynomial(-1, 6, 5, -54),
                 new CubicPolynomial(1, -3, 2, 1),
-                new CubicPolynomial(4, 1, -4, 4),
-                new CubicPolynomial(1, -5, 6, 1),
-                new CubicPolynomial(-2, -2, -1, 5)
+                new CubicPolynomial(4, 1, -4, 80),
+                new CubicPolynomial(1, -5, 9, 1),
+                new CubicPolynomial(-2, -2, -1, 15)
             };
 
             Console.WriteLine("Default polynomials:");
